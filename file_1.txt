@@ -1,5 +1,5 @@
-hi my name is Aryan.
-i am not just doing this for git assignment and this is file_1.
+hi my name is Akshat Saxena.
+just doing this for git assignment, learning and this is file_1.
 this is line 3. 
 this is line 4.
 this is line 5.
