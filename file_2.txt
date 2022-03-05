@@ -1,0 +1,5 @@
+hi my name is Akshat.
+just doing this for git assignment and this is file_2.
+this is line 3. 
+this is line 4.
+this is line 5.
